@@ -1,8 +1,8 @@
 *vertices 4
-1 1 0.0 0.0 ellipse
-2 2 0.0 0.0 ellipse
-3 3 0.0 0.0 ellipse
-4 4 0.0 0.0 ellipse
+1 1 0.0 0.0 box
+2 2 0.0 0.0 box
+3 3 0.0 0.0 box
+4 4 0.0 0.0 box
 *edges
 1 2 1.0
 1 4 1.0
