@@ -1,0 +1,584 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="networkx_key" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>19/06/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id="B" label="B" />
+      <node id="E7" label="E7" />
+      <node id="F#7" label="F#7" />
+    </nodes>
+    <edges>
+      <edge id="0" source="B" target="E7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="B" target="E7">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="B" target="E7">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="B" target="E7">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="B" target="E7">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="B" target="E7">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="B" target="E7">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="B" target="E7">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="B" target="E7">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="B" target="E7">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="B" target="E7">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="B" target="E7">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="B" target="E7">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="B" target="E7">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="28" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="32" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="34" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="35" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="36" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="37" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="38" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="39" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="41" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="42" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="43" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="44" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="45" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="46" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="48" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="B" target="B">
+        <attvalues>
+          <attvalue for="0" value="49" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="B" target="F#7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="B" target="F#7">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="B" target="F#7">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="B" target="F#7">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="B" target="F#7">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="B" target="F#7">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="E7" target="F#7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="E7" target="F#7">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="E7" target="E7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="E7" target="E7">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="E7" target="E7">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="E7" target="E7">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="E7" target="E7">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="E7" target="E7">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="E7" target="E7">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="E7" target="E7">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="E7" target="E7">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="E7" target="E7">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="E7" target="E7">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="E7" target="E7">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="E7" target="B">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="E7" target="B">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="E7" target="B">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="E7" target="B">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="E7" target="B">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="E7" target="B">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="E7" target="B">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="E7" target="B">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="E7" target="B">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="E7" target="B">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="94" source="E7" target="B">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="E7" target="B">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="96" source="E7" target="B">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="F#7" target="B">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="F#7" target="B">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="F#7" target="B">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="F#7" target="B">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="F#7" target="B">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="F#7" target="B">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="F#7" target="B">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="F#7" target="F#7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="105" source="F#7" target="F#7">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="106" source="F#7" target="F#7">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="F#7" target="F#7">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="F#7" target="F#7">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="F#7" target="F#7">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="F#7" target="F#7">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="F#7" target="F#7">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="112" source="F#7" target="E7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
